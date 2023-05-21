@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc20eda8ece2c1b4bb054ca80d2df64f, type: 3}
+  m_Name: DefaultChatConfig
+  m_EditorClassIdentifier: 
+  <CatName>k__BackingField: Willow
+  <Model>k__BackingField: gpt-3.5-turbo
+  <Temperature>k__BackingField: 0.6
+  <BannedTokens>k__BackingField: d94e000050070000
+  <InitialTextBox>k__BackingField: ...
+  <InitialPrompt>k__BackingField: You are Willow, a magical cat who is talking with
+    a friend inside your witches hut. It is night outside in the forest. No introduction.
+    Talk a warm, but calm manner. Do not admit that you are an AI or refer to yourself
+    as a cat. You cannot go outside. Keep your responses to 3 sentences or less.
+  <InstructionSet>k__BackingField: []
