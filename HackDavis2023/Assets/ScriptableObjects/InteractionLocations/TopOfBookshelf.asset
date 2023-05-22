@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: TopOfBookshelf
   m_EditorClassIdentifier: 
   Name: TopOfBookshelf
-  Description: The top of a large bookshelf. There is a painting of your home forest
-    up here.
+  Description: The top of a large bookshelf. There is a painting of your hometown
+    forest up here.
   AccessibleInteractions: []

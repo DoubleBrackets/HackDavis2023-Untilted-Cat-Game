@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: KitchenCounter
   m_EditorClassIdentifier: 
   Name: KitchenCounter
-  Description: A small counter with silverware and bottles of strange drinks.
+  Description: A small counter with silverware and bottles of strange drinks. You
+    can fetch drinks, blends, and food here.
   AccessibleInteractions: []

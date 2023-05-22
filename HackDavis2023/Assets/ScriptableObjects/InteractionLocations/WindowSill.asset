@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: WindowSill
   m_EditorClassIdentifier: 
   Name: WindowSill
-  Description: A windowsill looking outside into the night and the dark silhouette
-    of the forest.
+  Description: 'A windowsill looking outside into the night and the dark silhouette
+    of the forest. '
   AccessibleInteractions: []

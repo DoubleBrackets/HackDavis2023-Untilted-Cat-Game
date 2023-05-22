@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Fireplace
   m_EditorClassIdentifier: 
   Name: Fireplace
-  Description: 'A warm, cozy fireplace. '
+  Description: A warm, cozy fireplace. You can warm up here.
   AccessibleInteractions: []

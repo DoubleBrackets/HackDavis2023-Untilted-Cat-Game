@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: DryingRack
   Description: A wood rack hanging above the kitchen counter, with many herbs and
-    various roots drying under it.
+    various roots drying under it. You can get herbs and plants here.
   AccessibleInteractions: []
